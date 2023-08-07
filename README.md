@@ -1,6 +1,6 @@
 # adminBro-administrative-system
 
-Users and articles administrative system built with Express, MongoDB and React's 'AdminBro' library.
+Administrative system built with Express and the 'AdminBro' library for React.
 
 ### Technologies Used:
 
