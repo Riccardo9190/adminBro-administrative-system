@@ -1,6 +1,6 @@
 # adminBro-administrative-system
 
-Administrative system built with Express and the 'AdminBro' library for React.
+Administrative article system built with Express and the 'AdminBro' library for React.
 
 ### Technologies Used:
 
@@ -8,7 +8,6 @@ Administrative system built with Express and the 'AdminBro' library for React.
 - Express
 - React
 - MongoDB
-- Mongoose
 
 ### To Run Locally
 
