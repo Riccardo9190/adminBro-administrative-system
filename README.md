@@ -1,6 +1,6 @@
 # adminBro-administrative-system
 
-Administrative article system built with Express and the 'AdminBro' library for React.
+Administrative article system built with Express and the AdminBro library for React.
 
 ### Technologies Used:
 
